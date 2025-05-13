@@ -6,4 +6,4 @@ The Jupyter Notebooks uploaded for this study use Pandas, NumPy, Seaborn, Matplo
 - Stage 2 Hypertension
 - Hypertension Crisis
 
-The stratified gives a realistic approach from a clinical standpoint. The modified dataset used is owned by Md Raihan Khan as uploaded onto the Kaggle dataset repository : https://www.kaggle.com/datasets/khan1803115/hypertension-risk-model-main/data.
+The stratified classification gives a realistic approach from a clinical standpoint of hypertension diagnosis. The modified dataset used is owned by Md Raihan Khan as uploaded onto the Kaggle dataset repository : https://www.kaggle.com/datasets/khan1803115/hypertension-risk-model-main/data.
