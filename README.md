@@ -8,7 +8,7 @@ This project demonstrates how machine learning can predict a patient's hypertens
 **Tech stack**
 - Python, Jupyter Notebooks  
 - pandas, NumPy  
-- scikit-learn, statsmodels (where applicable)  
+- scikit-learn, 
 - Seaborn, Matplotlib for visualization
 
 **Objectives**
